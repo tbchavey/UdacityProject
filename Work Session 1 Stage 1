@@ -1,0 +1,29 @@
+<! DOCTYPE HTML>
+<html>
+<div> <h1> Level 0 Notes</h1> </div>
+<br>
+<br>
+<body>
+<div> <p1> At this stage we learned to create different types of text. For example:</p1> </div>
+<br>
+<div> <b> bold </b> </div>
+<br>
+<div> <em> italics </em> </div>
+<br>
+<br>
+<div> <p2> We also learned how to add a link.  Please click on the blue link below. </p2> </div>
+<br>
+<div> <a href="http://www.udacity.com"> Udacity </a> </div>
+<br>
+<div> <p3> We also learned how to add an image. </p3> </div>
+<div> "<img src = "http://www.udacity.com/cs253x/hipmunk.png" alt = "hipmunk!">"</div>
+<br>
+<div> <p4> We learned how to use a break. </p4> </div>
+<br>
+<div> <p5> We learned how to form a paragraph.  Like this paragraph which identifies the inline elements as a, span, img, strong, br and the block elements as div,p, and form. </p5> </div>
+<br>
+<div> <p6> We also learned how a fully structured html document should look starting with the identification of the document type which will always be HTML, but the most important thing I took away from Lesson 0 is that we don't have to memorize everything because we can always look it up. </p6> </div>
+<br>
+<div> <h2> Level 1 Notes </h2> </div>
+</body>
+</html>
